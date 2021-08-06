@@ -1,0 +1,34 @@
+
+Available environments:
+===== == ===== ====
+PROD  QA TEST  DEV 
+===== == ===== ====
+PROD1    TEST1 DEV1
+===== == ===== ====
+
+
+Available environments:
+===== === ===== ====
+PROD  QA  TEST  DEV 
+===== === ===== ====
+PROD1 QA1 TEST1 DEV1
+===== === ===== ====
+
+
+Available environments:
+===== === ===== ====
+PROD  QA  TEST  DEV 
+===== === ===== ====
+PROD1 QA1 TEST1 DEV1
+      QA2 TEST2     
+===== === ===== ====
+
+
+Available environments:
+===== === ===== ====
+PROD  QA  TEST  DEV 
+===== === ===== ====
+PROD1 QA1 TEST1 DEV1
+      QA2 TEST2     
+===== === ===== ====
+
